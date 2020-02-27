@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="password" type="id">password</item>
+    <item name="loginButton" type="id">loginButton</item>
+    <item name="userName" type="id">userName</item>
+    <item name="WelcomeText" type="id">WelcomeText</item>
+    <item name="nav_host_fragment" type="id">nav_host_fragment</item>
+</resources>
