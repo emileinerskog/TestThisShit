@@ -34,5 +34,6 @@ public class HomePageTest extends AppCompatActivity {
             Bitmap bitmap = (Bitmap) data.getExtras().get("data");
             imageView.setImageBitmap(bitmap);
         }
+        //HejHEj
 
 }
